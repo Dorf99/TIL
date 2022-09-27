@@ -11,7 +11,7 @@
     
 ## 마크다운(MarkDown)
 ---
-- [마크다운 문법(syntax)](/git/)
+- [마크다운 문법(syntax)](/MardDown/마크다운문법.md)
 
 - [md파일 만들기](/MarkDown/md파일만들기.md)
 
