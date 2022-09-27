@@ -1,5 +1,21 @@
 # TIL(Today I Learned)
-일일 학습 정리하기
+일일 학습 정리하기  
+<br>
 
+정리 방식  
+1.이론  
+2.예시코드  
+3.예제풀이 
+<br><br><br>
 
-▶ git
+    
+## 마크다운(MarkDown)
+---
+- [마크다운 문법(syntax)](/git/)
+
+- [md파일 만들기](/MarkDown/md파일만들기.md)
+
+## git
+---
+
+- [git](/git/)
