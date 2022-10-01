@@ -8,7 +8,11 @@
 3.예제풀이 
 <br><br><br>
 
-    
+
+# 오류해결
+- java
+    - [Eclipse Dynamic Web Project 생성시 오류 해결(failed while installing Java 1.8)](/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/failed%20while%20installing%20Java%201.8.md)
+
 ## 마크다운(MarkDown)
 
 - [마크다운 문법(syntax)](/MardDown/마크다운문법.md)
@@ -23,8 +27,13 @@
 
 ## highjava
 
-- [유스케이스다이어그램]
-- [예제1](/highjava/유스케이스다이어그램/예제1/인터넷쇼핑몰예제.md)
+- 유스케이스다이어그램
+    - [기초개념](/highjava/유스케스이스다이어그램/개념.md)
+    - [예제1](/highjava/유스케이스다이어그램/예제1/인터넷쇼핑몰예제.md)
+- Request
+    - [기초개념](/highjava/Request/개념.md)
+    - [예제](/highjava/Request/예제1.md)
+
 
 ## Servlet
 
