@@ -15,7 +15,7 @@
 
 ## 마크다운(MarkDown)
 
-- [마크다운 문법(syntax)](/MardDown/마크다운문법.md)
+- [마크다운 문법(syntax)](/MarkDown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EB%AC%B8%EB%B2%95.md)
 
 - [md파일 만들기](/MarkDown/md파일만들기.md)
 
