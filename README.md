@@ -20,9 +20,9 @@
 - [md파일 만들기](/MarkDown/md파일만들기.md)
 
 ## git
-
-- [git 기초](/git/%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%83%9D%EC%84%B1%EB%B0%8F%EC%84%A4%EC%A0%95.md)
-- [git 명령어](/git/git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- git 기초개념
+    - [git 기초](/git/%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%83%9D%EC%84%B1%EB%B0%8F%EC%84%A4%EC%A0%95.md)
+    - [git 명령어](/git/git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 
 
 
@@ -45,3 +45,6 @@
 ## jQuery
 
 - ### [mvc](/jQuery/mvc/mvc.md)
+
+## other
+- [carbon](/other/carbon/carbon.md)
