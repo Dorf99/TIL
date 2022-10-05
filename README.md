@@ -9,22 +9,13 @@
 ---
 <br><br>
 
+## jQuery
 
-## 마크다운(MarkDown)
+- ### [mvc](/jQuery/mvc/mvc.md)
 
-- [마크다운 문법(syntax)](/MarkDown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EB%AC%B8%EB%B2%95.md)
-
-- [md파일 만들기](/MarkDown/md파일만들기.md)
-
-## git
-- git학습
-    - https://backlog.com/git-tutorial/kr/intro/intro1_1.html
-- 정리
-    - [git 기초개념](/git/기초개념.md)
-    - [git 기초](/git/기초.md)
-    - [git 명령어](/git/명령어.md)
-
-
+- ajax
+    - [ajax개념](/jQuery/ajax/ajax.md)
+    - [예제목록](/jQuery/ajax/예제목록.md)
 
 ## highjava
 
@@ -45,17 +36,32 @@
     - [세션으로 로그인예제](/highjava/Session/예제2/예제2.md)
 
 
+## git
+- git학습
+    - https://backlog.com/git-tutorial/kr/intro/intro1_1.html
+- 정리
+    - [git 기초개념](/git/기초개념.md)
+    - [git 기초](/git/기초.md)
+    - [git 명령어](/git/명령어.md)
+
+
+
+
+
 ## Servlet
 
 - ###  서블릿
     - [기초개념](/Servlet/개념.md)
     - [서블릿기초](/Servlet/기초.md)
 
-## jQuery
 
-- ### [mvc](/jQuery/mvc/mvc.md)
+# other
 
-## other
+ -  마크다운(MarkDown)
+    - [마크다운 문법(syntax)](/MarkDown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EB%AC%B8%EB%B2%95.md)
+    - [md파일 만들기](/MarkDown/md파일만들기.md)<br><br> 
+  
+
 - [carbon](/other/carbon/carbon.md)
 
 <br><br><br><br>  
