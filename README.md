@@ -61,7 +61,7 @@
     - [서블릿기초](/Servlet/기초.md)
 
 # 데이터 모델링
-- [데이터 모델링](/데이터모델링/데이터모델링.md)
+- [데이터 모델링](/datamodeling/datamodeling.md/)
 
 # other
 
