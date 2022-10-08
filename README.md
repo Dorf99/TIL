@@ -1,13 +1,14 @@
-# TIL(Today I Learned)
+# **TIL(Today I Learned)**
 일일 학습 정리하기  
 <br>
-
 정리 방식  
 1.이론  
 2.예시코드  
 3.예제풀이 
----
-<br><br>
+<br>
+
+# 데이터 모델링
+- [데이터 모델링](/datamodeling/datamodeling.md/)
 
 ## jQuery
 
@@ -60,8 +61,6 @@
     - [기초개념](/Servlet/개념.md)
     - [서블릿기초](/Servlet/기초.md)
 
-# 데이터 모델링
-- [데이터 모델링](/datamodeling/datamodeling.md/)
 
 # other
 
