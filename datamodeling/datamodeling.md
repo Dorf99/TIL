@@ -5,23 +5,40 @@
 - 결국 데이터 모델링이란 복잡한 현실을 컴퓨터에 담는것 = **데이터모델링**
 <br><br><br>
 
-
-
-
 ## #0. 데이터 모델링 순서
 ## ①업무파악 → ②개념적 데이터 모델링 → ③논리적 데이터 모델링 → ④물리적 데이터 모델링
+<br>
 
 ## #1. 업무파악
 - 지금하려는 '일'이 무엇인지?
 - 개발자와 의뢰인이 '어떤 것을 만들고 싶은지' 
-- '요건정의서', '기흭서' 같은 것을 산출물로 받을수 있다. 
+- '요건정의서', '기흭서' 같은 것을 산출물로 받을수 있다.  
 
-<img src="![a1](https://user-images.githubusercontent.com/110223551/194695730-77283fd5-33a4-4668-a4ab-0cd13ccc8b67.png)" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/110223551/194695730-77283fd5-33a4-4668-a4ab-0cd13ccc8b67.png" width="80%" height="30%"/>  
+<br><br>
+
+## #2. 개념적 데이터 모델링
+- 하고자 하는 일에 '어떠한 개념'이 있고, 각각의 개념들이 어떻게 상호작용하는지 파악하기
+<img src="https://user-images.githubusercontent.com/110223551/194696065-34eacc9f-3fdb-4963-8135-53c4a15c7466.png" width="80%" height="30%">
+<br><br>
+
+
+
+
+
+
+
+
+<img src="" width="80%" height="30%">
+
+
+
+
 
 
 
 ### 참고
- - [생활코딩(관계형데이터모델링)]()
+ - [생활코딩(관계형데이터모델링)](https://opentutorials.org/course/3883/25259)
  - https://psklog.tistory.com/130
 
 
