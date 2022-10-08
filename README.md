@@ -38,10 +38,8 @@
     - [세션으로 로그인예제](/highjava/Session/예제2/예제2.md)
 - ajax
     - [예제](/highjava/ajax/예제/예제목록.md)
-- 
 
 ## Oracle
-- [erd](/oracle/erd.md)
 
 
 ## git
@@ -62,6 +60,8 @@
     - [기초개념](/Servlet/개념.md)
     - [서블릿기초](/Servlet/기초.md)
 
+# 데이터 모델링
+- [데이터 모델링](/데이터모델링/데이터모델링.md)
 
 # other
 
